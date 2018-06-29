@@ -11,7 +11,7 @@ This is a website for Wangui Njoka the developer to have a presence on the world
 ##:
 ##
 ##
-##licenses
+##License
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/

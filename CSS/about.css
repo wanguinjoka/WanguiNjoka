@@ -6,6 +6,10 @@ header {
   font-style: italic;
 
 }
+h3{
+  font-style: oblique;
+  color: green;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -36,27 +40,35 @@ header {
   height: 100%
 }
 .leftpanel{
-  width: 25%;
+  width: 100%;
   height: 100%;
-  float:left;
-  background-color: salmon;
+  float: center;
+  background-color: #808000;
 
 }
 .middlepanel{
-  width: 50%;
+  width: 100%;
   height: 100%;
   text-align: center;
   font-style: oblique;
+  background-color: #ffff00;
 }
 .rightpanel{
-  width: 25%;
+  width: 100%;
   height: 100%;
-  float:right;
+  float:center;
+  background-color: #d07700;
 }
 .rightimg{
   float: right;
   border-radius: 15px;
-  padding: 5px;
-  width: 150px;
+  padding: 5px 10px 5px 10px;
+  width: 100%;
+  height: auto;
+}
+.middlepanelimg{
+  border-radius: 15px;
+  padding: 5px 10px 5px 10px;
+  width: 100%;
   height: auto;
 }
